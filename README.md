@@ -66,7 +66,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="">
-    <img src="https://komarev.com/ghpvc/?username=Dhwanit2003">
+<a href="https://github.com/Karan-Negi-2002/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Karan-Negi-2002">
 </a>
-<a href=""><img src="https://img.shields.io/github/followers/Dhwanit2003?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social" alt="GitHub Badge"></a>
