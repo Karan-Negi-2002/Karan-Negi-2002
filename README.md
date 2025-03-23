@@ -27,9 +27,10 @@ Let's connect and create something awesome together! 🚀✨
 
 - 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
 - 🌱 I’m currently learning React-Native and Animation
-- 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-- ⚡️ Fun-Fact: I sleep at 6am 🙃
+- 👯 I’m looking to collaborate on **open-source projects**. 
+- 🤖 Coding at least 4 hours a day, 💪 Exercising 3 days a week
+- 💬 Ask me about anything related to Software and Web Developer.(I will answer after googling it 😜😌)
+- ⚡ Fun fact: I might be a simulation 💻.
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
 - 📫 How to reach me: aman.atg001@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
