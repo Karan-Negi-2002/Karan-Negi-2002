@@ -27,7 +27,7 @@ Let's connect and create something awesome together! 🚀✨
 - 📫 How to reach me: aman.atg001@gmail.com
 - 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 
-## 🚀 Skills:
+## 🛠️ Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="./logo/c++.png"/> </a>
@@ -56,7 +56,7 @@ Let's connect and create something awesome together! 🚀✨
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 🙋‍♂️ Connect with me:
+## 🚀 Connect with me:
 [![Resume](https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white)](<YOUR_RESUME_LINK>)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Karan-Negi-2002)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-negi-5b322a345/)
