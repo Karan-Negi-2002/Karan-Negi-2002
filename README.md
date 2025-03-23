@@ -23,7 +23,7 @@ Let's connect and create something awesome together! 🚀✨
 - 🤖 Coding at least 4 hours a day, 💪 Exercising 3 days a week.
 - 💬 Ask me about anything related to Software and Web Development. (I will answer after googling it 😜😌).
 - ⚡ Fun fact: I might be a simulation 💻.
-- 🎿 Beyond coding, I enjoy reading books 📚, playing chess ♟️, and indulging in MLBB game 🎮, as well as volleyball 🏐.
+- 🎿 Beyond coding, I enjoy reading books 📚, playing chess ♟️, and indulging in MLBB 🎮, as well as volleyball 🏐.
 
 ## 🛠️ Languages and Tools:
 <p align="center">
