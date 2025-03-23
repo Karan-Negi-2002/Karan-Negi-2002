@@ -29,24 +29,39 @@ Let's connect and create something awesome together! 🚀✨
 
 ## 🛠️ Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="./logo/c++.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding:0 4px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./logo/jquery.png"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-left:8px;" href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express-js.png" style="background-color: white; border-radius: 100%"> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-    <a href="https://mongoosejs.com/" target="_blank"> <img src="./logo/mongoose.png" style="height:50px"> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+<p align="center">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/css.svg" alt="css" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/java.svg" alt="java" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/react.svg" alt="react" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/next.svg" alt="next.js" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/redux.svg" alt="redux" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/nodejs.svg" alt="node.js" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/express.svg" alt="express" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/tailwind.svg" alt="tailwindcss" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/material-ui.svg" alt="material-ui" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/fastapi.svg" alt="fastapi" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/gsap.svg" alt="gsap" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/framer-motion.svg" alt="framer-motion" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/firebase.svg" alt="firebase" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/supabase.svg" alt="supabase" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/androidstudio.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/git.svg" alt="git" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/github.svg" alt="github" style="vertical-align:top; margin:4px">
 </p>
-<br/>
+
 
 ## 📊 GitHub Stats:
-
 <a href="https://github.com/Karan-Negi-2002">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karan-Negi-2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Karan Singh Negi's GitHub Stats"/>
 </a>
