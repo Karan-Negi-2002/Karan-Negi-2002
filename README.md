@@ -1,20 +1,22 @@
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan Singh Negi! :stars:</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan! :stars:</h1>
 <a href="https://github.com/Karan-Negi-2002/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Karan-Negi-2002"></a>
 <a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social"></a>
 
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
+Hey there! 😄 My name is Karan Singh Negi. I'm a 23-year-old Software and web developer from Delhi, India. I consider myself as a skilled Developer with good debugging skills and a deep understanding of modern web technologies.
 
-- 🌱 I’m currently learning **Full Stack Web and APP Development**
-- 💼 I’m looking to collaborate on **OpenSource Projects.**
-- 📫 How to reach me **karannegi1218@gmail.com**.
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+I have experience working with Java, JavaScript, Python. My expertise lies in React.js, Next.js, Redux, Node.js, Express.js, and a little with Flutter, along with styling frameworks like Tailwind CSS, Bootstrap, and Material-UI. I have also worked with databases like MongoDB, Firebase and Supabase to build scalable applications.
+
+In addition, I enjoy working with FastAPI, GSAP, Framer Motion, and various developer tools like Git, GitHub, Visual Studio Code, and Android Studio. I am always eager to explore new technologies and improve my skills in full-stack development.
+
+Let's connect and create something awesome together! 🚀✨
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
   
-### ✨ Quick Facts
+## ✨ Quick Facts:
 
 - 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
 - 🌱 I’m currently learning React-Native and Animation
