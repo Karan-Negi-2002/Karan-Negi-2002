@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan</h1>
+<h1 align="center">Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">This is Karan Singh Negi!</h1>
 <h3 align="center">I'm walking on the path of becoming Web Developer</h3>
 
 
