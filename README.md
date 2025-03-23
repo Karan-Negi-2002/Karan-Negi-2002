@@ -18,6 +18,13 @@ Let's connect and create something awesome together! 🚀✨
   
 ## ✨ Quick Facts:
 
+🔭 I’m currently working on a **JavaScript-based Blog Management System** with **JPA, AI-powered text summarization, and AWS deployment**.  
+🌱 I’m currently learning **advanced animations with Framer Motion and improving my AWS skills**.  
+👯 I’m looking to collaborate on **open-source JavaScript projects**.  
+💬 Ask me about **JavaScript, React, Redux, Next.js, Firebase, and Full-Stack Development** (after Googling it first 😆).  
+⚡ Fun Fact: I built a **Flappy Bird clone** using Java Swing just for fun! 🎮  
+📫 How to reach me: [Your Email or Social Media]
+
 - 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
 - 🌱 I’m currently learning React-Native and Animation
 - 🤔 I’m looking for help for my future MERN projects
