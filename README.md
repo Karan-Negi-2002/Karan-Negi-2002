@@ -25,15 +25,13 @@ Let's connect and create something awesome together! 🚀✨
 ⚡ Fun Fact: I built a **Flappy Bird clone** using Java Swing just for fun! 🎮  
 📫 How to reach me: [Your Email or Social Media]
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
-- 🌱 I’m currently learning React-Native and Animation
+- 👨🏽‍💻 Employement ... Open for intern and job opportunities.
+- 🌱 Currently learning advance software and web technologies.
 - 👯 I’m looking to collaborate on **open-source projects**. 
-- 🤖 Coding at least 4 hours a day, 💪 Exercising 3 days a week
-- 💬 Ask me about anything related to Software and Web Developer.(I will answer after googling it 😜😌)
+- 🤖 Coding at least 4 hours a day, 💪 Exercising 3 days a week.
+- 💬 Ask me about anything related to Software and Web Development. (I will answer after googling it 😜😌).
 - ⚡ Fun fact: I might be a simulation 💻.
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
-- 📫 How to reach me: aman.atg001@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
+- 🎿 Beyond coding, I enjoy reading books 📚, playing chess ♟️, and indulging in MLBB game 🎮, as well as volleyball 🏐.
 
 ## 🛠️ Languages and Tools:
 
