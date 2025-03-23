@@ -2,8 +2,8 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan! :stars:</h1>
 <a href="https://github.com/Karan-Negi-2002/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Karan-Negi-2002"></a>
 <a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social"></a>
-[![Resume](https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white)](YOUR_RESUME_LINK)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ffa500?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white"></a>
+<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/-Portfolio-ffa500?style=flat&logo=vercel&logoColor=white"></a>
 
 ## 🙋‍♂️ About Me:
 Hey there! 😄 My name is Karan Singh Negi. I'm a 23-year-old Software and web developer from Delhi, India. I consider myself as a skilled Developer with good debugging skills and a deep understanding of modern web technologies.
