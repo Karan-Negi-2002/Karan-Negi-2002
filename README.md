@@ -12,7 +12,7 @@
 - 📫 How to reach me **karannegi1218@gmail.com**.
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" style="margin-top: 20px;"/>
   
 ### ✨ Quick Facts
 
