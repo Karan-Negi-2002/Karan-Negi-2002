@@ -39,10 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Negi-2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Karan Singh Negi's Top Languages"/>
 </a>
 
-<b>**Note:**</b>  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-> **Note:** *Top languages reflect the languages used in public repositories and may not indicate experience level.*
-<br/>
-**Note:** *Top languages reflect the languages used in public repositories and may not indicate experience level.*
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## 🙋‍♂️ Connect with me:
 [![Resume](https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white)](<YOUR_RESUME_LINK>)
