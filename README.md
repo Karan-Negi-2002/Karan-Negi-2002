@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan Singh Negi! :stars:</h1>
 <a href="https://github.com/Karan-Negi-2002/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Karan-Negi-2002"></a>
-<a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social"></a>
 
 
 
