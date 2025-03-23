@@ -41,6 +41,7 @@
 
 <b>**Note:**</b>  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 > **Note:** *Top languages reflect the languages used in public repositories and may not indicate experience level.*
+<br/>
 **Note:** *Top languages reflect the languages used in public repositories and may not indicate experience level.*
 
 ## 🙋‍♂️ Connect with me:
