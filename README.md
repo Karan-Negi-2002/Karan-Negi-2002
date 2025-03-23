@@ -40,6 +40,8 @@
 </a>
 
 <b>**Note:**</b>  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+> **Note:** *Top languages reflect the languages used in public repositories and may not indicate experience level.*
+**Note:** *Top languages reflect the languages used in public repositories and may not indicate experience level.*
 
 ## 🙋‍♂️ Connect with me:
 [![Resume](https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white)](<YOUR_RESUME_LINK>)
