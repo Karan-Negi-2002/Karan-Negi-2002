@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Karan Singh Negi! :stars:</h1>
+<h1 align="center">Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan Singh Negi! :stars:</h1>
 
 
 
