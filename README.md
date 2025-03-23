@@ -17,14 +17,6 @@ Let's connect and create something awesome together! 🚀✨
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
   
 ## ✨ Quick Facts:
-
-🔭 I’m currently working on a **JavaScript-based Blog Management System** with **JPA, AI-powered text summarization, and AWS deployment**.  
-🌱 I’m currently learning **advanced animations with Framer Motion and improving my AWS skills**.  
-👯 I’m looking to collaborate on **open-source JavaScript projects**.  
-💬 Ask me about **JavaScript, React, Redux, Next.js, Firebase, and Full-Stack Development** (after Googling it first 😆).  
-⚡ Fun Fact: I built a **Flappy Bird clone** using Java Swing just for fun! 🎮  
-📫 How to reach me: [Your Email or Social Media]
-
 - 👨🏽‍💻 Employement ... Open for intern and job opportunities.
 - 🌱 Currently learning advance software and web technologies.
 - 👯 I’m looking to collaborate on **open-source projects**. 
@@ -34,7 +26,6 @@ Let's connect and create something awesome together! 🚀✨
 - 🎿 Beyond coding, I enjoy reading books 📚, playing chess ♟️, and indulging in MLBB game 🎮, as well as volleyball 🏐.
 
 ## 🛠️ Languages and Tools:
-
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -97,5 +88,3 @@ Let's connect and create something awesome together! 🚀✨
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Karan-Negi-2002)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-negi-5b322a345/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karannegi1218@gmail.com)
-
-
