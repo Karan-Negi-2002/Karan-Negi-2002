@@ -48,6 +48,3 @@
 <a href = " "><img src="https://img.icons8.com/fluent/48/000000/leetcode.png"/></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Karan-Negi-2002/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Karan-Negi-2002"></a>
-<a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social" alt="GitHub Badge"></a>
