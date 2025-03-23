@@ -1,7 +1,6 @@
 
-<h1 align="center">Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">This is Karan Singh Negi!</h3>
-<h3 align="center">I'm walking on the path of becoming Web Developer</h3>
+<h1 align="center">Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Karan Singh Negi! :stars:</h1>
+
 
 
 ## 🙋‍♂️ About Me
