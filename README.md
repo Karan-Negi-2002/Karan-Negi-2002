@@ -30,7 +30,7 @@
 </p>
 <br/>
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats:
 
 <a href="https://github.com/Karan-Negi-2002">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karan-Negi-2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Karan Singh Negi's GitHub Stats"/>
@@ -39,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Negi-2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Karan Singh Negi's Top Languages"/>
 </a>
 
-> **Note:** *Top languages reflect the languages used in public repositories and may not indicate experience level.*
+<b>Note:</b>  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## 🙋‍♂️ Connect with me:
 [![Resume](https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white)](<YOUR_RESUME_LINK>)
