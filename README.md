@@ -3,7 +3,7 @@
 <a href="https://github.com/Karan-Negi-2002/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Karan-Negi-2002"></a>
 <a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social"></a>
 <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white"></a>
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/-Portfolio-ffa500?style=flat&logo=vercel&logoColor=white"></a>
+<a href="https://portfolio-karan-2002.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-ffa500?style=flat&logo=vercel&logoColor=white"></a>
 
 ## 🙋‍♂️ About Me:
 Hey there! 😄 My name is Karan Singh Negi. I'm a 23-year-old Software and web developer from Delhi, India. I consider myself as a skilled Developer with good debugging skills and a deep understanding of modern web technologies.
