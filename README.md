@@ -2,7 +2,7 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan! :stars:</h1>
 <a href="https://github.com/Karan-Negi-2002/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Karan-Negi-2002"></a>
 <a href="https://github.com/Karan-Negi-2002?tab=followers"><img src="https://img.shields.io/github/followers/Karan-Negi-2002?label=Followers&style=social"></a>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white"></a>
+<a href="https://drive.google.com/file/d/10iIRu1VIoUlcqaATcj8351L9kYgYgXSa/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-ffa500?style=flat&logo=adobe&logoColor=white"></a>
 <a href="https://portfolio-karan-2002.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-ffa500?style=flat&logo=vercel&logoColor=white"></a>
 
 ## 🙋‍♂️ About Me:
