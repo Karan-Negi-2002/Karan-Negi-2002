@@ -6,7 +6,7 @@
 <a href="https://portfolio-karan-2002.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-ffa500?style=flat&logo=vercel&logoColor=white"></a>
 
 ## 🙋‍♂️ About Me:
-#### **Digital Polymath (Developer/Creator/Designer)**
+#### **`Digital Polymath (Developer/Creator/Designer)`**
 Hey there! 😄 My name is Karan Singh Negi. I'm a 22-year-old Software and web developer from Delhi, India. I consider myself as a skilled Developer with good debugging skills and a deep understanding of modern web technologies.
 
 I have experience working with Java, JavaScript, Python. My expertise lies in React.js, Next.js, Redux, Node.js, Express.js, and a little with Flutter, along with styling frameworks like Tailwind CSS, Bootstrap, and Material-UI. I have also worked with databases like MongoDB, Firebase and Supabase to build scalable applications.
