@@ -15,7 +15,7 @@ In addition, I enjoy working with FastAPI, GSAP, Framer Motion, and various deve
 
 Let's connect and create something awesome together! 🚀✨
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
+<img align="right" alt="img" src="![Image](https://github.com/user-attachments/assets/57cbadb8-a540-4732-b006-e79e2cca2542)" width="50%" height="auto"/>
   
 ## ✨ Quick Facts:
 - 👨🏽‍💻 Employement ... Open for intern and job opportunities.
