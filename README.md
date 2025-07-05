@@ -15,7 +15,7 @@ In addition, I enjoy working with FastAPI, GSAP, Framer Motion, and various deve
 
 Let's connect and create something awesome together! 🚀✨
 
-![Image](https://github.com/user-attachments/assets/050ea01c-54f7-44ba-a25c-556bf61a1b13)
+<img align="right" alt="img" src="https://github.com/user-attachments/assets/050ea01c-54f7-44ba-a25c-556bf61a1b13" width="50%" height="auto"/>
   
 ## ✨ Quick Facts:
 - 👨🏽‍💻 Employement ... Open for intern and job opportunities.
